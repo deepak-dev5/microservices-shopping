@@ -1,0 +1,7 @@
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/dto/ProductResponse.java
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/contoller/ProductController.java
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/model/Product.java
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/service/ProductService.java
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/ProductServiceApplication.java
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/repository/ProductRepository.java
+/home/deepak/CODES/SELF_PRACTICE/Intellij/microservies-shopping/product-service/src/main/java/com/deepak/productservice/dto/ProductRequest.java

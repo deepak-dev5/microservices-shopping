@@ -1,0 +1,5 @@
+com/deepak/inventoryservice/model/Inventory.class
+com/deepak/inventoryservice/controller/InventoryController.class
+com/deepak/inventoryservice/InventoryServiceApplication.class
+com/deepak/inventoryservice/service/InventoryService.class
+com/deepak/inventoryservice/repository/InventoryRepository.class

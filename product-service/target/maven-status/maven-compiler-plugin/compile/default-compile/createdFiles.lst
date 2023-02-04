@@ -1,0 +1,10 @@
+com/deepak/productservice/contoller/ProductController.class
+com/deepak/productservice/service/ProductService.class
+com/deepak/productservice/model/Product.class
+com/deepak/productservice/ProductServiceApplication.class
+com/deepak/productservice/dto/ProductRequest.class
+com/deepak/productservice/repository/ProductRepository.class
+com/deepak/productservice/model/Product$ProductBuilder.class
+com/deepak/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/deepak/productservice/dto/ProductResponse.class
+com/deepak/productservice/dto/ProductResponse$ProductResponseBuilder.class
